@@ -1,0 +1,37 @@
+.page {
+	width: 200px;
+	height: 40px;
+	background: #d3d3d3;
+	margin: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+.limit {s
+	width: 200px;
+	height: 40px;
+	background: #d3d3d3;
+	margin: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+.btn {
+	width: 200px;
+	height: 40px;
+	background: #4670e7;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px;
+}
+.card {
+  width: 400px;
+  margin: 20px;
+}
+.card-image {
+	width: 400px;
+	height: 200px;
+	border: 4px;
+}

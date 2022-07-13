@@ -1,0 +1,21 @@
+.input1 {
+	width: 200px;
+	height: 40px;
+	background: #d3d3d3;
+	margin: 20px;
+}
+.input2 {
+	width: 200px;
+	height: 40px;
+	background: #d3d3d3;
+	margin: 20px;
+}
+.btn {
+	width: 200px;
+	height: 40px;
+	background: #4670e7;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px;
+}
